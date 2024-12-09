@@ -1,0 +1,67 @@
+body {
+    height: 1000px;
+}
+
+
+.sticky {
+    position: sticky;
+    width: 825px;
+    top: 0;
+    background-color: darkred;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    z-index: 100;
+    color: blanchedalmond;
+}
+.all {
+    width: 800px;
+    height: 500px;
+    border: 2px;
+    border-style: solid;
+    border-color: darkred;
+    align-items: center;
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-between;
+    padding: 20px;
+    
+
+}
+.hobby {
+    
+    width: 300px;
+    height: 200px;
+    border: 2px;
+    border-style: solid;
+    background-color: blanchedalmond;
+    color: darkred;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.like {
+    width: 300px;
+    height: 200px;
+    border: 2px;
+    border-style: solid;
+    background-color: blanchedalmond;
+    color: darkred;
+}
+.hobimg {
+    width: 300px;
+    height: 200px;
+    
+}
+.likepic {
+    width: 300px;
+    height: 200px;
+}
+.hob {
+    text-align: center;
+}
+.li {
+    text-align: center;
+}
+.abt-me {
+    color: darkred;
+}

@@ -1,0 +1,108 @@
+.Menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: relative;
+    top: 200px;
+  }
+  
+  .mnitem {
+    display: inline;
+    border-style: solid;
+    border-color: burlywood;
+    border-width: 10px;
+    background-color: blanchedalmond;
+    width: 410px;
+    height: 410px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .mnitem2 {
+    display: inline;
+    border-style: solid;
+    border-color: burlywood;
+    border-width: 10px;
+  
+    background-color: blanchedalmond;
+    width: 410px;
+    height: 410px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .mnitem3 {
+    display: inline;
+    border-style: solid;
+    border-color: burlywood;
+    border-width: 10px;
+    background-color: blanchedalmond;
+    width: 410px;
+    height: 410px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .Bar {
+    display: flex;
+    border-style: solid;
+    border-color: rgb(139, 0, 0);
+    background-color: darkred;
+    width: 100vw;
+    height: 60px;
+    position: sticky;
+  }
+  
+  .Eclaire {
+    font-size: 50px;
+    font-family: "Courier New", Courier, monospace;
+    color: aliceblue;
+  }
+  
+  .end {
+    border-style: solid;
+    border-color: rgb(139, 0, 0);
+    background-color: darkred;
+    width: 100vw;
+    height: 60px;
+    position: relative;
+    top: 400px;
+  }
+  
+  .button {
+    display: flex;
+    position: relative;
+    top: 300px;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  
+  .me {
+    font-size: 80px;
+    font-family: "Courier New", Courier, monospace;
+    color: black;
+    border-style: solid;
+    background-color:#ed1111;
+    border-color: darkred;
+    padding: 10px;
+    border-radius: 15px;
+  }
+  
+  .edu {
+    font-size: 80px;
+    font-family: "Courier New", Courier, monospace;
+    color: black;
+    border-style: solid;
+    background-color: #ed1111;
+    border-color: darkred;
+    padding: 10px;
+    border-radius: 15px;
+  }
+  
+  .cont {
+    font-size: 80px;
+    font-family: "Courier New", Courier, monospace;
+    color: black;
+    border-style: solid;
+    background-color: #ed1111;
+    border-color: darkred;
+    padding: 10px;
+    border-radius: 15px;
+  }
